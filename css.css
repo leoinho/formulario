@@ -1,0 +1,12 @@
+
+#bloco {
+
+	width: 50%;
+	height: 200px;
+}
+.borda{
+	position: relative;
+	width: 50%;
+	height: 200px;
+	height: -30px;
+}
